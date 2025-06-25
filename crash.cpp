@@ -1,3 +1,4 @@
+// DISCLAIMER: This code is provided for educational purposes only. It **will** crash your system. Use at your own risk.
 #include <Windows.h>
 #pragma comment(lib, "ntdll.lib")
 
