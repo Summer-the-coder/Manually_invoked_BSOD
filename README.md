@@ -1,8 +1,8 @@
 # Manually_invoked_BSOD
 
-This is a small, educational project made by me.
+This is a very small project made by me to explore some parts of Windows's kernel.
 
-**Disclaimer: I am not responsible for any damage caused to your computer through the use of the code in this repository. Do not use this against someone else's computer; doing such is a cybercrime.**
+**Disclaimer: This code is provided for educational purposes only. I am not responsible for any damage, data loss, or system instability resulting from the use of this code. Do **not** run this on someone else’s machine — doing so is a cybercrime and may be punishable under law.**
 
 ----
 
