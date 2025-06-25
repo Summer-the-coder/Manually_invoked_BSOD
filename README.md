@@ -1,6 +1,8 @@
 # Manually_invoked_BSOD
 
-**Disclaimer**: I am not responsible for any damage caused to your computer through the use of the code in this repository.
+This is a small, educational project made by me.
+
+**Disclaimer: I am not responsible for any damage caused to your computer through the use of the code in this repository. Do not use this against someone else's computer; doing such is a cybercrime.**
 
 ----
 
@@ -10,4 +12,4 @@ However, if you really want to do so, Windows provides you with some undocumente
 
 The script in `crash.cpp`, which utilizes two undocumented functions from `ntdll.lib`, if compiled and ran with administrator permissions, will almost guaranteedly raise a BSOD (and crash your system).
 
-**Note**: If you are compiling with g++ and getting errors like "undefined reference to `NtRaiseHardError'", try to compile with Clang or MSVC (since they are usually aware of Windows's ABI). 
+**Note**: If you are compiling with g++ and getting errors like "undefined reference to `NtRaiseHardError'", try to compile with Clang or MSVC (since they are usually aware of Windows's ABI).
